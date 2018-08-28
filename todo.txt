@@ -1,18 +1,28 @@
+x 2018-08-27 Pick an article from Evernote drafts and put it online @live pri:E
+x (E) record video about the nameservers @live
+x (D) do code review on pull reqests @live +equalitytime 
+x 2018-08-28 Review all projects in github @live +equalitytime pri:E
+(E) Post to WWW facebook page @live +equalitytime
+(E) Open and log progress on the bid status document +EqualityTime 
+(D) fix the novareddington.com website @live +equalitytime
 (A) Add the igor tasks for the day. 
-x 2018-08-28 put richard's expenses into the system *again*  pri:A
-x 2018-08-28 Brainstom on the javascript  pri:B
-x 2018-08-28 fix the amazon issues.  pri:B
-(C) 2. Go live. 
-x 2018-08-28 CALL NATWEST (03457 114477) ABOUT THE PROCESS FOR CLOSING THE ACCOUNT @PHONE +equalitytime. pri:C
-x 2018-08-28 List guests for birthday games +family  pri:C
+(A) Email trustees about medical device policies +eqt @email
+(A) Email comic relief - do we only have seven months to spend the money +eqt @email
+(A) Send carehome carepackages
+(A) Talk about stakeholder recruitment
+(B) Chase consultant about review +eqt @email
+x 2018-08-28 2. Go live.  pri:C
+(C) Close 'no volenteering' project
+(C) Brainstorm on expanding trustee pool
+(C) Send emails about Talks +www @email
 (C) PAY CHEQUE FROM ISAAC +EQUALITYTIME @OUTSIDE
+(C) Send all emails relevent to this https://github.com/eQualityTime/Public/issues/14@email
 (C) TEST THE MEGA DRIVES WITH NEW ADAPTER +FAMILY @LIVE
 (C) Talk to Kat about games birthday +Family @kat
 (D) Get bedside lamp
 (D) Get lavender for nova's room
 (D) Process halifax statment +Family
 (D) Sprint - Make watson give catagory summaryies
-(D) fix the novareddington.com website @live +equalitytime
 (D) make sure the production branch of open voice factory is geneRATING OVF @LIVE +EQUALITYTIME
 (D) rewrite the 'work with us' bit of the website so that it is cLEAR HOW TO GET TO THE VOLENTEERING BITS. +EQUALITYTIME
 (D) show kat crazy five year plan @kat +Family
@@ -23,18 +33,15 @@ x 2018-08-28 List guests for birthday games +family  pri:C
 (E) Floss
 (E) Go through the shared reminder list with Heart +Family
 (E) Map sprint on the new watson
-(E) Open and log progress on the bid status document +EqualityTime @live
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 (E) Post to Sibling Facebook group 
-(E) Post to WWW facebook page @live +equalitytime
 (E) Put sleep time into calendar +Overhead
 (E) Put up 'are you carrying anything' sign +Family
 (E) Review all personal projects in github +Family
-(E) Review all projects in github @live +equalitytime
 (E) Review yearly goals +overhead
 (E) Sharpen shirt corners 
 (E) Trim nose hair
@@ -126,7 +133,6 @@ x (A) 2. Clear crate @singleton
 x (C) Post this month's birthday cards
 x (C) REVIEW AIDEEN'S REPORT +EQUALITYTIME @LIVE
 x (D) buy webcam +equalitytime
-x (D) do code review on pull reqests @live +equalitytime 
 x (D) watch next camera lecture file 
 x (E) Do full accounts algorithm
 x (E) Empty crate completely
@@ -152,7 +158,6 @@ x (E) open and log progress on the bid status document
 x (E) open and log progress on the bid status document
 x (E) open and log progress on the bid status document
 x (E) open and log progress on the bid status document
-x (E) record video about the nameservers @live
 x (E) swimming and climbing gear should be in the car
 x (E) swimming and climbing gear should be in the car
 x (E) trim nose hair
@@ -175,7 +180,6 @@ x 2018-08-27 Fill out fear/passion table pri:E
 x 2018-08-27 Fill out fear/passion table pri:E
 x 2018-08-27 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ pri:E
 x 2018-08-27 Message Hannah about weekend pri:A
-x 2018-08-27 Pick an article from Evernote drafts and put it online @live pri:E
 x 2018-08-27 Process inbox in evernote pri:E
 x 2018-08-27 Publicly thank someone pri:E
 x 2018-08-27 Put everything 'lying around' at home into the big chest for later sorting pri:E
@@ -186,3 +190,8 @@ x 2018-08-27 Swimming and climbing gear should be in the car pri:E
 x 2018-08-27 backup the nice things book +family pri:E
 x 2018-08-27 pick the next evening to do to from the luton clubs list  pri:E
 x 2018-08-27 send §e:u2fsdgvkx1/72lgetktb+aa4f5guvhmjwuldwf83ef4=§ the gifF OF HE LIKED pri:E
+x 2018-08-28 Brainstom on the javascript  pri:B
+x 2018-08-28 CALL NATWEST (03457 114477) ABOUT THE PROCESS FOR CLOSING THE ACCOUNT @PHONE +equalitytime. pri:C
+x 2018-08-28 List guests for birthday games +family  pri:C
+x 2018-08-28 fix the amazon issues.  pri:B
+x 2018-08-28 put richard's expenses into the system *again*  pri:A
